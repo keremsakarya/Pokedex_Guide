@@ -5,7 +5,9 @@ This site is created for searhing pokemons learning their stats. Smooth design p
 # Features
 
 All "container"s are made with dynamic structures.
+
 With response structure, the site is compatible with mobile devices and PCs.
+
 If you write the name of a pokemon to input, the results will update according to your letterings.
 
 # GIF
